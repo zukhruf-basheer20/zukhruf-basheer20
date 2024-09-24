@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
- I am Software Engineer working on front-end technologies and previously worked on full-stack with nest and react JS<br>
+ I am a Software Engineer specializing in front-end development at Fraunhofer IDMT, where I work with technologies such as Pug.js, JavaScript, TypeScript, and Python. Previously, I worked as a Full-Stack Developer at GeekyBugs Inc., utilizing NestJS and React.js to build dynamic web applications.<br>
 
 
 ## 🌐 Socials:
