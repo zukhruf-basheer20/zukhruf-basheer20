@@ -5,7 +5,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mzbashir/) 
-[![Portfolio](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://zukhruf-basheer20.github.io/Portfolio/) 
+##[![Portfolio](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://zukhruf-basheer20.github.io/Portfolio/) 
 
 
 # 💻 Tech Stack:
